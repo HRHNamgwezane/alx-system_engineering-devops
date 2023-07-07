@@ -1,2 +1,2 @@
 #!/bin/bash
-chown betty hello, if su guillaume
+chown --from=guillaume hello
